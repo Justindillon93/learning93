@@ -19,7 +19,7 @@ something 21
 
 ###this is heading 3
 
-[google][https://www.google.com] this is a link
+[google](https://www.google.com) this is a link
 
 * this is list item one
 * this is list item two
